@@ -1,0 +1,3 @@
+[submodule "esolang"]
+	path = esolang
+	url = https://github.com/ahmedsaheed/esolang
